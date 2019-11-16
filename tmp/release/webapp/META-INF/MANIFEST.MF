@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+commitTime: 03.10.2019 @ 17:54:56 CEST
+Built-By: vikto
+commitId: 5213492c6491fa0cc2545d661450f09d0b13293b
+branch: master
+version: 2.7
+Main-Class: main.Main
+Ant-Version: Apache Ant 1.8.2
+Ignore-Scanning-Packages: com,org,net
+buildTime: 04.10.2019 @ 10:45:40 CEST
+describe: 2.7
+remoteOriginUrl: https://meszarv@bitbucket.org/webswing/webswing-home.
+ git
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 11.0.2
+

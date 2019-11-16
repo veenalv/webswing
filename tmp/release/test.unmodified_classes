@@ -1,0 +1,9 @@
+program.Main
+program.Main$1
+view.SimulatorView
+program.Computer
+program.instructions.Instruction
+program.Decoder
+view.TextArea
+program.instructions.Addi
+program.instructions.IFormat
